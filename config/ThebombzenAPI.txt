@@ -1,0 +1,7 @@
+#ThebombzenAPI basic properties
+#Sat Sep 24 10:26:42 PDT 2016
+UPDATE_REMINDERS=true
+# UPDATE_REMINDERS
+#     Display Update Reminders
+#     Disable if you do not want
+#     to see new updates.
