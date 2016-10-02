@@ -1,0 +1,17 @@
+.curseclient
+asm/
+crash-reports
+hats/
+journeymap/
+local/
+logs/
+manifest.json
+minecraftinstance.json
+minetweaker.log
+modpack/
+options.txt
+perms.txt
+resources/
+saves/
+servers.dat
+usernamecache.json
