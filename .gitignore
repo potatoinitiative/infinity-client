@@ -1,5 +1,7 @@
 .curseclient
+BotaniaVars.dat
 asm/
+config/INpureProjects/logs/
 crash-reports
 hats/
 journeymap/
@@ -9,6 +11,7 @@ manifest.json
 minecraftinstance.json
 minetweaker.log
 modpack/
+mods/carpentersblocks/
 options.txt
 perms.txt
 resources/
