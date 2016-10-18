@@ -13,6 +13,7 @@ minetweaker.log
 modpack/
 mods/carpentersblocks/
 options.txt
+pack.json
 perms.txt
 resources/
 saves/
